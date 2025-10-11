@@ -1,0 +1,17 @@
+customer_id,First_name,last_name,city,date_visited,purchases,category_purchased,age,gender
+202001,tolu,joy,Abuja,2020-01-01,iphone,electronics,29,female
+202002,Musa,halimah,kano,2020-01-02,textbook,books,19,female
+202023,victor,moses,benin,2020-02-02,television,electronics,35,male
+202004,victory,teslimah,auchi,2020-02-05,sneakers,fashion,22,female
+202005,friday,rosejoy,auchi,2020-04-05,slipper,fashion,34,female
+202006,emeka,victor,enugu,2020-05-09,cake,food,31,male
+202007,faruk,maryann,asaba,2020-09-11,coke,drink,29,female
+202008,ojo,ann,asaba,2021-02-09,fanta,drink,45,female
+202009,umar,hannah,benin,2021-04-05,wine,drink,34,female
+202010,ross,rosemary,kano,2021-07-08,router ,electronics,23,female
+202011,green,maryangela,enugu,2021-03-11,icecream,food,22,female
+202013,green,monica,abuja,2021-09-08,bracelet,fashion,33,female
+202014,joey,joy,benin,2021-04-03,beverage,food,37,male
+202015,jacob,jasper,benin,2022-01-03,iphone,electronics,21,male
+202016,obi,paul,enugu,2022-09-03,coat,fashion,56,male
+202017, emmanuel,moses,lagos,2022-01-03,novel,books,45,male
